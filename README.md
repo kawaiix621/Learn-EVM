@@ -73,3 +73,6 @@ Store the result at key 0 in storage.
 
 # **📄 License**
 - This project is licensed under the MIT License.
+
+
+# follow the course in details to get the gist
