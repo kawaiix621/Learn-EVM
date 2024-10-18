@@ -1,4 +1,13 @@
 # Learn EVM with JavaScript  
+**Learn-EVM-with-JS** is an educational project designed to introduce web developers to the fundamental concepts of the Ethereum Virtual Machine (EVM) using JavaScript. This project bridges the gap between high-level smart contract development in Solidity and low-level EVM execution, providing a simplified, interactive environment for understanding how smart contracts are compiled, deployed, and executed on the Ethereum blockchain.
+
+## Key Features
+- **Hands-on Learning:** Explore the relationship between Solidity, EVM bytecode, and opcodes through practical examples and coding exercises.
+- **Custom EVM Simulator:** Implement a virtual machine that can execute EVM bytecode, allowing users to experiment with their own smart contracts.
+- **Step-by-Step Guides:** Detailed modules that break down complex concepts into manageable sections, making it easy for beginners to grasp.
+- **Code Examples:** JavaScript implementations of compiling Solidity code, generating bytecode, and executing opcodes, enhancing the learning experience.
+- **Documentation and Resources:** Comprehensive explanations of concepts, including the ABI, bytecode, and EVM opcodes, along with additional resources for further exploration.
+
 
 Welcome to the **"Learn EVM with JavaScript"** repository! This course is designed for web developers who want to understand the core concepts behind the **Ethereum Virtual Machine (EVM)** by building a **simplified EVM using JavaScript**.
 
@@ -6,6 +15,10 @@ Welcome to the **"Learn EVM with JavaScript"** repository! This course is design
 - Basic knowledge of JavaScript  
 - Familiarity with Node.js (e.g., installing packages with npm)  
 - Optional: Some understanding of blockchain concepts
+
+
+## Goal
+This project aims to empower web developers with the knowledge and skills to understand and interact with the Ethereum blockchain, enabling them to create, deploy, and manage smart contracts effectively.
 
 ---
 
@@ -27,7 +40,7 @@ Each module has a detailed explanation and code walkthrough on **Medium**. Follo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/learn-evm-with-js.git
+git clone https://github.com/kawaiix621/learn-evm-with-js.git
 cd learn-evm-with-js 
 ``` 
 
