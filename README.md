@@ -27,7 +27,7 @@ This project aims to empower web developers with the knowledge and skills to und
 Each module has a detailed explanation and code walkthrough on **substack**. Follow these posts to get the full context:  
 
 1. **[Part 1: Stack-based Computation](https://open.substack.com/pub/tobiawolaju21/p/stack-based-computation?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
-2. **[Part 2: Simple Memory Management]()**  
+2. **[Part 2: Simple Memory Management](https://tobiawolaju21.substack.com/p/simple-memory-management?r=2hkadt)**  
 3. **[Part 3: Persistent Storage](https://open.substack.com/pub/tobiawolaju21/p/persistent-storage-in-the-ethereum?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
 4. **[Part 4: Instruction Decoding and Execution](https://open.substack.com/pub/tobiawolaju21/p/instruction-decoding-and-execution?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
 5. **[Part 5: Gas Management](https://medium.com/@yourprofile/module-5-gas-management)**  
