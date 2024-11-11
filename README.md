@@ -30,8 +30,10 @@ Each module has a detailed explanation and code walkthrough on **substack**. Fol
 2. **[Part 2: Simple Memory Management](https://open.substack.com/pub/tobiawolaju21/p/simple-memory-management?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
 3. **[Part 3: Persistent Storage](https://open.substack.com/pub/tobiawolaju21/p/persistent-storage-in-the-ethereum?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
 4. **[Part 4: Instruction Decoding and Execution](https://open.substack.com/pub/tobiawolaju21/p/instruction-decoding-and-execution?r=2hkadt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**  
-5. **[Part 5: Gas Management](https://medium.com/@yourprofile/module-5-gas-management)**  
-6. **[Part 6: Building a JavaScript Virtual Machine](https://medium.com/@yourprofile/module-6-building-a-javascript-vm)**  
+
+5. **[Part 5: Gas Management (coming soon)](https://medium.com/)**  
+
+6. **[Part 6: Building a JavaScript Virtual Machine(coming soon)](https://medium.com/)**  
 
 ---
 
